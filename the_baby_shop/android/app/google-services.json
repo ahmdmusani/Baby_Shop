@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637042992259",
+    "project_id": "the-baby-shop-fb67d",
+    "storage_bucket": "the-baby-shop-fb67d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637042992259:android:dfdb60383fb84d360227b6",
+        "android_client_info": {
+          "package_name": "com.example.the_baby_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8basC5u7y8XE7LgXGXJm6flfgn2DzXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637042992259:android:d7f135883e2a06a70227b6",
+        "android_client_info": {
+          "package_name": "com.thebabyshop.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8basC5u7y8XE7LgXGXJm6flfgn2DzXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
